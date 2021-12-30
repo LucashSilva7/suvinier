@@ -1,0 +1,14 @@
+
+<style>
+@import url ('https://fonts.googleapis.com/css2? family = Dança + Script & exibir = trocar ');
+</style> 
+
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(90deg,#66000E, #C8384B);
+}
+
+h1{
+    font-family: 'Dancing Script', cursiva; 
+}
